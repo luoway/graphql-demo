@@ -1,1 +1,1 @@
-# graphql-demo
+本项目使用Remix，在一个SSR项目中完成Apollo客户端+服务端
